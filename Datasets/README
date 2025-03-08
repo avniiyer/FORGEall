@@ -1,3 +1,3 @@
-training_data and random_conditonal_data shows the original training and random conditional datasets used for model training and testing.
+training data and random conditonal search shows the original training and random conditional datasets used for model training and testing.
 
 Upload new_dataset -fixed and new_dataset_normalized to forgeall_new_hea_predictions.ipynb to find new HEAs based on FORGEall pretrained models.
