@@ -1,0 +1,2 @@
+See Pipeline for getting ground-truth data from csv to Calphad and merging data phases, Gibbs and Enthalpy back into the CSV 
+for instructions on using codefiles to obtain OpenCalphad calculations
